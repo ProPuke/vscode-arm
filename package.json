@@ -45,6 +45,11 @@
 				"scopeName": "source.arm",
 				"path": "./syntaxes/arm.tmlanguage.json"
 			}
+		],
+		"breakpoints": [
+			{
+				"language": "arm"
+			}
 		]
 	}
 }
